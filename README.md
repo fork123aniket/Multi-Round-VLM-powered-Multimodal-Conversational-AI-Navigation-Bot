@@ -29,7 +29,7 @@ An advanced AI-powered chatbot that enables users to upload images, ask question
 
 3. **Receive Responses**:  
    - Textual responses appear on-screen.  
-   - Optionally, listen to the response via the text-to-speech feature.  
+   - Optionally, listen to the response via the text-to-speech feature by pressing the `Speak` button available below the generated response.  
 
 ## Installation  
 
