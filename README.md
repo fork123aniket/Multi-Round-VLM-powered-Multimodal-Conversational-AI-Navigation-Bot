@@ -40,8 +40,8 @@ An advanced AI-powered chatbot that enables users to upload images, ask question
 ### Setup  
 1. Clone the repository:  
    ```bash
-   git clone https://github.com/your-username/your-repo-name.git
-   cd your-repo-name
+   git clone https://github.com/fork123aniket/VLM-powered-Multimodal-Conversational-AI-Bot.git
+   cd VLM-powered-Multimodal-Conversational-AI-Bot
 2. Install dependencies:
     ```bash
     pip install -r requirements.txt
