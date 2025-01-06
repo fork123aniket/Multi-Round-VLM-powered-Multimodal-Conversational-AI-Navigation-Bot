@@ -5,7 +5,8 @@ An advanced AI-powered chatbot that enables users to upload images, ask question
 ## Features  
 - **Image Upload and Analysis**: Accepts uploaded images or captures photos directly via webcam.  
 - **Speech-to-Text**: Converts spoken questions into text using Google SpeechRecognition API.  
-- **Multimodal Chat Interaction**: Integrates visual (image), text, and audio data for comprehensive user interaction.  
+- **Multimodal Chat Interaction**: Integrates visual (image), text, and audio data for comprehensive user interaction.
+- **Multi-Round Conversations**: Retains conversation context across multiple turns for dynamic and coherent interactions.
 - **Real-Time Responses**: Provides responses powered by OpenAI's multimodal models.  
 - **Text-to-Speech**: Reads out chatbot responses using pyttsx3 for enhanced accessibility.  
 
