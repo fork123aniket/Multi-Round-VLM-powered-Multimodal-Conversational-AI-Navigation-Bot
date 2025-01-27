@@ -1,4 +1,4 @@
-# VLM-powered-Multimodal-Conversational-AI-Bot
+# 🚀VLM-powered-Multimodal-Conversational-AI-Bot
 
 An advanced AI-powered chatbot that enables users to upload images, ask questions in text or audio, and receive real-time responses in both text and audio formats.  
 
